@@ -17,9 +17,7 @@ Project is created with:
 ## Illustrations
 * Short video showing how the application works
 
-<video width="320" height="240" controls>
-  <source src="./bin/data/solar_system.mp4" type="video/mp4">
-</video>
+![VIDEO](presentaion.gif)
 
 ## Setup
 On the home page of [openFrameworks](https://openframeworks.cc/download/) you will find everything you need to compile on your system.
