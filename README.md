@@ -17,7 +17,7 @@ Project is created with:
 ## Illustrations
 * Short video showing how the application works
 
-![VIDEO](presentaion.gif)
+![VIDEO](presentation.gif)
 
 ## Setup
 On the home page of [openFrameworks](https://openframeworks.cc/download/) you will find everything you need to compile on your system.
