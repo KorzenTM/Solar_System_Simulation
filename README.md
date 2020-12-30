@@ -1,4 +1,4 @@
-#Solar System Simulation
+# Solar System Simulation
 
 ## Table of contents
 * [General info](#general-info)
