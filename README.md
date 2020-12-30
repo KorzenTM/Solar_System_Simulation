@@ -4,7 +4,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Illustrations](#illustrations)
-* [Setup](#setup
+* [Setup](#setup)
 
 ## General info
 Solar system simulation. The motion of planets is calculated by means of numerical integration of motion equations using the Euler method taking into account the Newton's law of universal gravitation. 
@@ -17,7 +17,9 @@ Project is created with:
 ## Illustrations
 * Short video showing how the application works
 
-![video](./bin/data/solar_system.mp4)
+<video width="320" height="240" controls>
+  <source src="./bin/data/solar_system.mp4" type="video/mp4">
+</video>
 
 ## Setup
 On the home page of [openFrameworks](https://openframeworks.cc/download/) you will find everything you need to compile on your system.
